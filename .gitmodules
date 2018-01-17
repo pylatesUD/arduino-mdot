@@ -1,0 +1,3 @@
+[submodule "lib/ubidots-arduino-mdot"]
+	path = lib/ubidots-arduino-mdot
+	url = https://github.com/ubidots/ubidots-arduino-mdot
